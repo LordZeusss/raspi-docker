@@ -5,12 +5,6 @@ This project is scripts that aim to to help setup docker and Mullvad VPN on a Ra
 
 The goal of this project is to help users who just bought some hardware, and are looking to get started and have no knowledge of where to start.
 
-If you would like to use a GUI (Graphical User Interface) instead of yes/no questions in terminal, I have created a GUI version of the scripts.
-
-Github link to that page:
-
-https://github.com/LordZeuss/docker-gui
-
 Below is a video of how simple and quick the install process is:
 
 
@@ -32,15 +26,6 @@ We used Ubuntu for the demo, however more platforms are available to use and are
 * [Essential Containers](#essential-containers)
 * [Conclusion](#conclusion)
 * [Donations](#donations)
-
-# Additional Containers
-If you want to install some containers to get started, I have a repo for that!
-The script in the repo below will let you select if you want to install Portainer, Sonarr, Radarr, Jackett and Qbittorrent into the docker-compose.yml file in the location that is setup in this script.
-
-Heres the link to that repo:
-
-https://github.com/LordZeuss/arr-installer
-
 
 ## Basic Commands
 Here are some commands for those who don't know how to navigate around the terminal.
@@ -76,7 +61,7 @@ To install and run the scripts, first you must install git and clone the repo.
 
 ```
 sudo apt-get install git
-git clone https://github.com/LordZeuss/raspi-docker
+git clone https://github.com/LordZeusss/raspi-docker
 ```
 Then, navigate to the folder where the scripts are downloaded.
 
@@ -149,7 +134,7 @@ I hope these scripts help you get started!
 Don't forget to check out my other project with provides a script to install containers for docker!
 
 ```
-https://github.com/LordZeuss/arr-installer
+https://github.com/LordZeusss/arr-installer
 ```
 
 # Donations
